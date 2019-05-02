@@ -160,6 +160,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="TutorialTriangle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TutorialTriangle.h" />
